@@ -1,0 +1,15 @@
+C:\Users\GO20382992\eclipse-workspace\RestAssuredAPI\src\test\java\APIChaining\CreateUser.java
+C:\Users\GO20382992\eclipse-workspace\RestAssuredAPI\src\test\java\APIChaining\DeleteUser.java
+C:\Users\GO20382992\eclipse-workspace\RestAssuredAPI\src\test\java\APIChaining\GetUser.java
+C:\Users\GO20382992\eclipse-workspace\RestAssuredAPI\src\test\java\APIChaining\UpdateUser.java
+C:\Users\GO20382992\eclipse-workspace\RestAssuredAPI\src\test\java\Authentications\APIKeyAuthentication.java
+C:\Users\GO20382992\eclipse-workspace\RestAssuredAPI\src\test\java\Authentications\Authentication.java
+C:\Users\GO20382992\eclipse-workspace\RestAssuredAPI\src\test\java\Authentications\BearerTokenAuthentication.java
+C:\Users\GO20382992\eclipse-workspace\RestAssuredAPI\src\test\java\Authentications\GenerateDummyDataFaker.java
+C:\Users\GO20382992\eclipse-workspace\RestAssuredAPI\src\test\java\Authentications\OAuthAuthentications.java
+C:\Users\GO20382992\eclipse-workspace\RestAssuredAPI\src\test\java\HTTPMethods\HTTPRequests.java
+C:\Users\GO20382992\eclipse-workspace\RestAssuredAPI\src\test\java\Parameters\CookiesDemo.java
+C:\Users\GO20382992\eclipse-workspace\RestAssuredAPI\src\test\java\Parameters\Headers.java
+C:\Users\GO20382992\eclipse-workspace\RestAssuredAPI\src\test\java\Parameters\Logging.java
+C:\Users\GO20382992\eclipse-workspace\RestAssuredAPI\src\test\java\Parameters\PathAndQueryParameter.java
+C:\Users\GO20382992\eclipse-workspace\RestAssuredAPI\src\test\java\ParsingResponse\ParsingXMLResponse.java
